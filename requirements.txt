@@ -1,0 +1,9 @@
+streamlit
+pickle
+re
+bs4
+distance
+scikit-learn
+nltk
+joblib
+fuzzywuzzy
